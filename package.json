@@ -7,7 +7,9 @@
     "test": "mocha backend/test/**/*_spec.js --require backend/test/helper --recursive --exit",
     "seed": "node backend/db/seeds.js",
     "serve:back": "nodemon backend/app.js",
-    "serve:front": "webpack-dev-server --mode-development"
+    "serve:front": "webpack-dev-server --mode-development",
+    "build": "npm run seed; webpack -p",
+  	"start": "node backend/app.js"
   },
   "author": "",
   "license": "ISC",
