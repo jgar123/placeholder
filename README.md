@@ -7,7 +7,7 @@ This is the third project of the software engineering immersive course at GA Lon
 
 Placeholder is a platform that allows users to save their favourite locations (e.g. restaurants, pubs or shops) for safe-keeping and to retrieve these easily on a map to find the ones nearby. It also allows users to add each other to their 'circle', and therefore displaying also locations from other users that they have decided to share with their friends.
 
-You can launch the app on Heroku [here](https://ga-placeholder.herokuapp.com/), or find the GitHub repo [here](https://github.com/katheich/placeholder).
+You can launch the app on Heroku [here](https://placeholder-ga.herokuapp.com/), or find the GitHub repo [here](https://github.com/jgar123/placeholder).
 
 ## Brief
 
